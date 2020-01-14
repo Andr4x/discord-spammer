@@ -1,4 +1,4 @@
-#Coded By Andr4x From OffensiveEncode Org.
+#Coded By Dr3xey From OffensiveEncode Org.
 import discord
 import asyncio
 import sys
